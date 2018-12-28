@@ -1,22 +1,22 @@
 {
-  "title": "沪小胖（张杨路店）",
-  "waiter": "刘峰",
-  "cashier": "赵秀秀",
+  "title": "武都路（麻辣香锅店）",
+  "waiter": "李莉",
+  "cashier": "李密",
   "ramadhin": 213,
   "guests": 2,
   "beginTime": "2016-4-29 18:33",
   "endTime": "2016-4-29 21:40",
   "duration": "3小时6分钟",
-  "total": "642.00",
+  "total": "602.00",
   "discounts": "0.00",
-  "receivable": "642.00",
+  "receivable": "602.00",
   "describe": "谢谢光临，欢迎下次惠顾！",
   "details": [
     {
       "name": "黄焖龙虾大份",
       "count": "1.0盘",
-      "price": "168.00",
-      "subtotal": "168.00"
+      "price": "128.00",
+      "subtotal": "128.00"
     },
     {
       "name": "餐具费",

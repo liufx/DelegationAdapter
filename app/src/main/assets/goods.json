@@ -2,34 +2,27 @@
   "banner": {
     "items": [
       {
-        "id": "5397",
-        "img": "https://eimg.smzdm.com/201806/08/5b1a71b82ce299430.png",
-        "desc": "给爱书一个安身之地 300元以下书架推荐榜",
-        "link": "https://m.smzdm.com/list/2615?from=app"
+        "id": "0",
+        "img": "https://res.vmallres.com/pimages//sale/2018-12/6lmRYwAxgW9t9qlXcBmR.jpg",
+        "desc": "华为畅享9",
+        "link": "https://www.vmall.com/huawei"
       },
       {
-        "id": "5398",
-        "img": "https://eimg.smzdm.com/201806/08/5b1a71eead3419410.png",
-        "desc": "性能颜值兼具 三大品牌经典鞋款推荐榜",
-        "link": "https://m.smzdm.com/list/2468?from=app"
+        "id": "1",
+        "img": "https://res.vmallres.com/pimages//sale/2018-12/nHIpUw1Ei7ZdLgiqvuE1.jpg",
+        "desc": "华为watch2",
+        "link": "https://www.vmall.com/huawei"
       },
       {
-        "id": "5271",
-        "img": "https://eimg.smzdm.com/201806/08/5b19df3fe4b9c4179.jpg",
-        "desc": "618好物热卖榜",
-        "link": "https://m.smzdm.com/ge/tag/434212/"
+        "id": "2",
+        "img": "https://res.vmallres.com/pimages//sale/2018-12/PTD4ArHKEarumkIBXh3b.jpg",
+        "desc": "华为mate20",
+        "link": "https://www.vmall.com/huawei"
       },
       {
-        "id": "5269",
-        "img": "https://eimg.smzdm.com/201806/08/5b19ddeceeb8e2917.png",
-        "desc": "远离过万传说 618之显示屏必买榜",
-        "link": "https://m.smzdm.com/list/2740?from=app"
-      },
-      {
-        "id": "5270",
-        "img": "https://eimg.smzdm.com/201806/08/5b19de30b39538048.png",
-        "desc": "拒做油腻中年人 绿茶助你刮肠胃",
-        "link": "https://m.smzdm.com/list/3035?from=app"
+        "id": "3",
+        "img": "https://res.vmallres.com/pimages//sale/2018-12/dfjQqCvhIU0VJZGNJjDc.jpg",
+        "link": "智能家居双旦福利会"
       }
     ]
   },
