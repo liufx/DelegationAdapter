@@ -1,0 +1,119 @@
+{
+  "channel": [
+    {
+      "title": "智能组菜",
+      "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/zhineng.png"
+    },
+    {
+      "title": "当季食材",
+      "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/dangji.png"
+    },
+    {
+      "title": "我的足迹",
+      "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/zuji.png"
+    },
+    {
+      "title": "菜谱分类",
+      "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/caipu.png"
+    }
+  ],
+  "sancan": {
+    "title": "每日三餐",
+    "select": 2,
+    "items": [
+      {
+        "title": "早餐",
+        "items": [
+          {
+            "id": "1890442",
+            "title": "茄汁肉丸饭",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/qzrmf.jpg"
+          },
+          {
+            "id": "1890311",
+            "title": "淡奶马拉糕",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/dnmdg.jpg"
+          }
+        ],
+        "type": "1"
+      },
+      {
+        "title": "午餐",
+        "items": [
+          {
+            "id": "1890308",
+            "title": "煮带鱼",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/zdy.jpg"
+          },
+          {
+            "id": "1890172",
+            "title": "莲藕肉丁",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/lord.jpg"
+          }
+        ],
+        "type": "2"
+      },
+      {
+        "title": "下午茶",
+        "items": [
+          {
+            "id": "1890031",
+            "title": "狮子肉松小贝",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/ssrsxb.jpg"
+          },
+          {
+            "id": "1889988",
+            "title": "香蕉芒果冰激凌",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/xjmgbjl.jpg"
+          }
+        ],
+        "type": "3"
+      },
+      {
+        "title": "晚餐",
+        "items": [
+          {
+            "id": "1889898",
+            "title": "咸蛋黄焗三文鱼",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/xdhjswy.jpg"
+          },
+          {
+            "id": "1890318",
+            "title": "香菇鸡块",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/xgjk.jpg"
+          }
+        ],
+        "type": "4"
+      },
+      {
+        "title": "夜宵",
+        "items": [
+          {
+            "id": "1890275",
+            "title": "风味卤豆干",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/fwldg.jpg"
+          },
+          {
+            "id": "1890426",
+            "title": "茄汁鹌鹑蛋",
+            "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/qzacd.jpg"
+          }
+        ],
+        "type": "5"
+      }
+    ]
+  },
+  "zhuanti": {
+    "title": "热门专题",
+    "items": [
+      {
+        "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/nd.jpg",
+        "title": "牛肚吃了这么多年，正确吃法你可能还不知道"
+      },
+      {
+        "img": "https://raw.githubusercontent.com/xuehuayous/DelegationAdapter/master/sample/pic/meishi/sjb.jpg",
+        "title": "世界杯告别深夜大排档，在家自己做一样嗨到爆"
+      }
+    ]
+  }
+}
