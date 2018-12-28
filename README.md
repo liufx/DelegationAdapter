@@ -1,0 +1,2 @@
+# DelegationAdapter
+Java版DelegationAdapter
