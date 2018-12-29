@@ -13,7 +13,7 @@ Java版DelegationAdapter
 ***Step 2. Add the dependency
 ```bash
 	dependencies {
-	        implementation 'com.github.liufx:delegationadapter:1.0.0'
+	        implementation 'com.github.liufx:delegationadapter:1.0.1'
 	}
 ```
 ## 更新日志
