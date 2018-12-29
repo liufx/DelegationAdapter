@@ -3,7 +3,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.liufx.delegationadapter"
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -34,7 +34,7 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:3.7.0'
     implementation 'com.kevin:loopview:1.4.3'
     implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-alpha-6'
-    implementation 'com.github.liufx:delegationadapter:1.0.0'
-    //implementation project(':delegationadapter')
+    //implementation 'com.github.liufx:delegationadapter:1.0.1'
+    implementation project(':delegationadapter')
     implementation 'com.android.databinding:library:3.2.1'
 }
