@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_fallback.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/activity_footer.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/activity_goods_binding.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/activity_meishijie.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/activity_same_data.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/banner_layout.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/item_bill_charge_info.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_bill_item.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_bill_service_info.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_fallback.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/item_goods_articles.xml" value="0.14402173913043478" />
+        <entry key="app/src/main/res/layout/item_goods_banner.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/item_goods_tag.xml" value="0.14402173913043478" />
+        <entry key="app/src/main/res/layout/item_home.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/item_meishi_channel.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_meishi_sancan.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_meishi_zhuanti.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_meishi_zhuanti_title.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/item_text.xml" value="0.2898550724637681" />
+        <entry key="app/src/main/res/layout/layout_item_blank.xml" value="0.14402173913043478" />
+        <entry key="app/src/main/res/layout/layout_meishi_sancan.xml" value="0.2898550724637681" />
+      </map>
+    </option>
+  </component>
   <component name="Kotlin2JsCompilerArguments">
     <option name="sourceMapEmbedSources" />
     <option name="sourceMapPrefix" />

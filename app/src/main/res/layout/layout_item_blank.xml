@@ -5,7 +5,7 @@
 
         <variable
             name="params"
-            type="com.liufx.delegationadapter.multidataandtype.bean.BlankParameters" />
+            type="com.liufx.test.multidataandtype.bean.BlankParameters" />
     </data>
 
     <View

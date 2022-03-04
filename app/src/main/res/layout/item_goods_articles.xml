@@ -7,7 +7,7 @@
 
         <variable
             name="article"
-            type="com.liufx.delegationadapter.bean.Goods.Article" />
+            type="com.liufx.test.bean.Goods.Article" />
 
     </data>
 

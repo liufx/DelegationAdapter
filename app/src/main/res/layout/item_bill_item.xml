@@ -7,7 +7,7 @@
 
         <variable
             name="bill"
-            type="com.liufx.delegationadapter.samedata.bean.Bill.Item" />
+            type="com.liufx.test.samedata.bean.Bill.Item" />
     </data>
 
     <android.support.constraint.ConstraintLayout

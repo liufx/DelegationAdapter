@@ -6,7 +6,7 @@
 
         <variable
             name="model"
-            type="com.liufx.delegationadapter.meishijie.bean.Meishi.SancanItem" />
+            type="com.liufx.test.meishijie.bean.Meishi.SancanItem" />
 
     </data>
 

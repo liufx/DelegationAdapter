@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.liufx.delegationadapter">
+    package="com.liufx.test">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -13,20 +13,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:name="com.liufx.test.App"
       >
 
-        <activity android:name=".home.HomeActivity">
+        <activity android:name="com.liufx.test.home.HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".samedata.SameDataActivity" />
-        <activity android:name=".multidataandtype.binding.BindingGoodsActivity" />
-        <activity android:name=".fallback.FallbackActivity" />
-        <activity android:name=".footer.FooterActivity" />
-        <activity android:name=".meishijie.MeishijieActivity" />
+        <activity android:name="com.liufx.test.samedata.SameDataActivity" />
+        <activity android:name="com.liufx.test.multidataandtype.binding.BindingGoodsActivity" />
+        <activity android:name="com.liufx.test.fallback.FallbackActivity" />
+        <activity android:name="com.liufx.test.footer.FooterActivity" />
+        <activity android:name="com.liufx.test.meishijie.MeishijieActivity" />
     </application>
 
 </manifest>

@@ -7,7 +7,7 @@
 
         <variable
             name="tagItem"
-            type="com.liufx.delegationadapter.bean.Goods.TagItem"></variable>
+            type="com.liufx.test.bean.Goods.TagItem"></variable>
     </data>
 
     <RelativeLayout

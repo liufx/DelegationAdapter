@@ -7,11 +7,11 @@
 
         <variable
             name="model"
-            type="com.liufx.delegationadapter.meishijie.bean.Meishi.Zhuanti" />
+            type="com.liufx.test.meishijie.bean.Meishi.Zhuanti" />
 
         <variable
             name="view"
-            type="com.liufx.delegationadapter.meishijie.adapter.MeishiZhuantiTitleAdapterDelegate" />
+            type="com.liufx.test.meishijie.adapter.MeishiZhuantiTitleAdapterDelegate" />
 
     </data>
 
