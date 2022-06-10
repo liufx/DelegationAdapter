@@ -11,7 +11,6 @@ import com.liufx.delegationadapter.DelegationAdapter;
  * @package: com.liufx.extras.span
  * @author: liufx
  * @date: 2018/12/26 2:21 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public class SpanDelegationAdapter extends DelegationAdapter {

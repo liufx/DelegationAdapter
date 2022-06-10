@@ -10,7 +10,6 @@ import com.liufx.delegationadapter.ItemData;
  * @package: com.liufx.delegationadapter
  * @author: liufx
  * @date: 2018/12/26 10:50 AM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 可点击的代理适配器
  */
 public abstract class ClickableAdapterDelegate<T, VH extends RecyclerView.ViewHolder> extends AdapterDelegate<T, VH> {

@@ -14,7 +14,6 @@ import com.liufx.extras.span.SpanAdapterDelegate;
  * @package: com.liufx.extras.binding
  * @author: liufx
  * @date: 2018/12/26 4:21 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public abstract class BindingSpanAdapterDelegate<T> extends SpanAdapterDelegate<T, BindingViewHolder> {

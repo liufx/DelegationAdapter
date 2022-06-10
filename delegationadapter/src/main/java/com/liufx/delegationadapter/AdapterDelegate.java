@@ -9,7 +9,6 @@ import java.util.List;
  * @package: com.liufx.delegationadapter
  * @author: liufx
  * @date: 2018/12/26 10:18 AM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 所有的委托都有相同的方法，为了方便定义一个接口
  */
 public abstract class AdapterDelegate<T,VH extends RecyclerView.ViewHolder> {

@@ -10,7 +10,6 @@ import java.util.List;
  * @package: com.liufx.delegationadapter
  * @author: liufx
  * @date: 2018/12/26 12:15 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: **The base DelegationAdapter**
  */
 public abstract class AbsDelegationAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {

@@ -9,7 +9,6 @@ import android.view.View;
  * @package: com.liufx.extras.binding
  * @author: liufx
  * @date: 2018/12/26 2:50 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public class BindingViewHolder extends RecyclerView.ViewHolder {

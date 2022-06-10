@@ -8,7 +8,6 @@ import com.liufx.extras.ClickableAdapterDelegate;
  * @package: com.liufx.extras.span
  * @author: liufx
  * @date: 2018/12/26 2:17 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public abstract class SpanAdapterDelegate<T, VH extends RecyclerView.ViewHolder> extends ClickableAdapterDelegate<T, VH> {

@@ -4,7 +4,6 @@ package com.liufx.delegationadapter;
  * @package: com.liufx.delegationadapter
  * @author: liufx
  * @date: 2018/12/26 10:50 AM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * 同一个数据 不通的类型
  * @description: For the same data object corresponding to multiple Delegate
  */

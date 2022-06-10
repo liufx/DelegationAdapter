@@ -7,7 +7,6 @@ import java.util.List;
  * @package: com.liufx.delegationadapter
  * @author: liufx
  * @date: 2018/12/26 12:54 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 代理适配器
  */
 public class DelegationAdapter extends AbsDelegationAdapter {
