@@ -4,7 +4,6 @@ package com.liufx.test.multidataandtype.bean;
  * @package: com.liufx.delegationadapter.multidataandtype.bean
  * @author: liufx
  * @date: 2018/12/26 8:44 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public class BlankParameters {
